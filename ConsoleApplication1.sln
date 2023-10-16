@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1.csproj", "{1DE1BC90-F2B9-431F-84F2-4DFA15309E1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Умовна комютерна мережа", "Умовна комютерна мережа\Умовна комютерна мережа.csproj", "{BB79C195-2C1D-46F3-BDE0-5884047FB38E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Система для моделювання та оптимізація трафіка у місті", "Система для моделювання та оптимізація трафіка у місті\Система для моделювання та оптимізація трафіка у місті.csproj", "{63F59858-BFC8-4DDE-8EA9-E1A8E0004E4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{1DE1BC90-F2B9-431F-84F2-4DFA15309E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DE1BC90-F2B9-431F-84F2-4DFA15309E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DE1BC90-F2B9-431F-84F2-4DFA15309E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB79C195-2C1D-46F3-BDE0-5884047FB38E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB79C195-2C1D-46F3-BDE0-5884047FB38E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB79C195-2C1D-46F3-BDE0-5884047FB38E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB79C195-2C1D-46F3-BDE0-5884047FB38E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63F59858-BFC8-4DDE-8EA9-E1A8E0004E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F59858-BFC8-4DDE-8EA9-E1A8E0004E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F59858-BFC8-4DDE-8EA9-E1A8E0004E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F59858-BFC8-4DDE-8EA9-E1A8E0004E4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
